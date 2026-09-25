@@ -26,7 +26,7 @@
 
     <script src="https://cdn.tailwindcss.com"></script>
 
-    <link rel="stylesheet" href=" {{ asset ('assets/css/styles.css') }}">
+    <link rel="stylesheet" href=" {{ asset   ('assets/css/styles.css') }}">
     <script src="https://unpkg.com/lucide@latest"></script>
 </head>
 <body class="bg-white text-slate-900 font-sans antialiased">
